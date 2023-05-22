@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-size: .875rem;
+font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-weight: 500;
+}
+
+*{
+  box-sizing: border-box;
+}
+

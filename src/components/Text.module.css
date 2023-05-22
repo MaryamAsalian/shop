@@ -1,0 +1,16 @@
+.textContainer{
+   
+    text-align: left;
+    
+}
+.textContainer h1{
+ font-size: 1.625rem;
+line-height: 1.75rem;
+margin: 2.125rem 0rem 1.25rem 0rem;
+color: #000;
+}
+.textContainer p {
+font-size: .875rem;
+line-height: 1.5rem;
+margin: 0rem 0rem 1.25rem 0rem;
+}

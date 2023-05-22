@@ -1,0 +1,40 @@
+.container img{
+    width:200px;
+    height: 200px;
+}
+
+.container{
+   width: 300px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.container h3{
+    margin: 30px 30px 20px;
+}
+.container p {
+    margin: 0 25px 20px;
+}
+.counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top:  1px solid gray;
+  
+   }
+   .counter img {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    margin: 20px;
+   }
+   .counter span {
+    background-color: gray;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+   }
+   .deactive {
+    opacity: 0.3;
+   }
